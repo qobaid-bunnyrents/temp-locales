@@ -3,5 +3,6 @@
   "where_r_u_searching": "Where are you searching?",
   "get_my_location": "Get my location",
   "or": "Or",
-  "apply": "Apply"
+  "apply": "Apply",
+  "search_input_placeholder":"Enter your zip code"
 }

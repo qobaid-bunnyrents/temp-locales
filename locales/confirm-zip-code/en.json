@@ -4,5 +4,6 @@
   "get_my_location": "Get my location",
   "or": "Or",
   "apply": "Apply",
-  "search_input_placeholder":"Enter a zip code"
+  "search_input_placeholder":"Enter a zip code",
+  "failed_to_confirm_location":"Failed to confirm zip code!"
 }

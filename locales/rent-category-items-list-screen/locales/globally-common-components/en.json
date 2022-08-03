@@ -1,0 +1,91 @@
+{
+  "confirm_modal": {
+    "confirm": "Confirm",
+
+    "cancel": "Cancel",
+
+    "ok": "OK"
+  },
+
+  "copy_cliborad": {
+    "copied": "Copied",
+
+    "copied_success": "Copied successfully",
+
+    "click_to_copy": "click to copy",
+
+    "copy": "COPY",
+
+    "copy_label": "COPY {{label}}"
+  },
+
+  "enalrage_img": {
+    "close": "Close"
+  },
+
+  "file_input": {
+    "no_file_chosen": "No file(s) chosen",
+
+    "choose_file": "Choose File",
+
+    "choose_files": "Choose Files"
+  },
+
+  "img_input": {
+    "no_img_chosen": "No image chosen",
+
+    "no_imgs_chosen": "No image(s) chosen",
+
+    "img_chosen": "Image chosen",
+
+    "imgs_chosen": "Images chosen",
+
+    "choose_img": "Choose image",
+
+    "choose_imgs": "Choose images",
+
+    "err_while_processing": "Faild to process, try again with different image(s) !",
+
+    "processing": "Processing...",
+
+    "take_photo": "Take a photo",
+    "choose_from_library": "Choose from library"
+  },
+
+  "google_map_link": {
+    "open": "OPEN IN GOOGLE MAPS"
+  },
+
+  "page_laoding_spinner": {
+    "loading": "Loading"
+  },
+
+  "phone_number_input": {
+    "us_placeholder": "US phone number",
+
+    "phone_num": "Phone number"
+  },
+
+  "toast": {
+    "now": "just now"
+  },
+
+  "unexpected_err": {
+    "something_went_wrong": "OOPS! Something Went Wrong.",
+
+    "home_page": "Home Page",
+
+    "home_screen": "Home Screen"
+  },
+
+  "internet_connection": {
+    "no_connection": "No Internet Connection!",
+
+    "try_again": "Try Again"
+  },
+
+  "search_list": {
+    "no_results": "No search results!",
+    "header": "Choose From the List"
+  }
+}

@@ -5,5 +5,9 @@
   "already_have_account": "Already have an account?",
   "login": "Login",
   "need_help": "Need Help? Contact Support",
-  "dont_have_account": "Don't have an account?"
+  "dont_have_account": "Don't have an account?",
+  "pass_format_err_msg": "Password must contain letters and numbers",
+  "pass_hint": "It must be 6-20 characters long, containing letters and numbers.",
+  "email":"Email",
+   "phone_num": "Phone Number"
 }

@@ -9,5 +9,6 @@
   "pass_format_err_msg": "Password must contain letters and numbers",
   "pass_hint": "It must be 6-20 characters long, containing letters and numbers.",
   "email":"Email",
-   "phone_num": "Phone Number"
+  "phone_num": "Phone Number",
+  "register_successfully":"Account was created successfully"
 }

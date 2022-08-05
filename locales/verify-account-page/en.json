@@ -1,0 +1,13 @@
+{
+  "enter_pin": "Enter the PIN code sent to the phone number <0>{{phoneNumber}}</0>",
+
+  "failed": "Failed",
+
+  "verify": "Verify",
+
+  "signout": "Sign out",
+
+  "verify_your_num": "Verify Your Phone Number",
+
+  "hint": "<0>Click here</0> if you waited more than 3 minutes and didn't receive the verification code sent to <1>{{phoneNumber}}</1>"
+}

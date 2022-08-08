@@ -1,0 +1,392 @@
+{
+  "expand_sidebar": {
+    "home_page": "Home Page",
+
+    "home": "Home",
+
+    "my_profile": "My Profile",
+
+    "start_return": "Start New Return",
+
+    "new_return": "New Return",
+
+    "new_request": "New Request",
+
+    "my_returns": "My Returns",
+
+    "help_support": "Help & Support",
+
+    "terms_conditions": "Terms & Conditions",
+
+    "edit_profile": "Edit Profile",
+
+    "dashboard": "Dashboard",
+
+    "pay_info": "Pay Info",
+
+    "help_faq": "Help and FAQs",
+
+    "signout": "Sign out",
+
+    "welcome": "<0>Welcome, </0> <1>{{currentUser}}</1>",
+
+    "friends": "Friends",
+    "boxy_orders": "Boxy Orders",
+    "new": "New",
+    "boxy": "Boxy",
+    "returns": "Returns",
+
+    "my_shop": "My Shop",
+
+    "purchase_orders": "Purchase Orders",
+    "my_orders": "Orders",
+    "my_shop_orders": "My Shop Orders"
+  },
+
+  "header": {
+    "notifications": "Notifications",
+
+    "no_notifications": "You don't have recent notifications",
+
+    "all_notifications": "Show All Notifications",
+
+    "enable_browser_notif_msg": "You need to <0>manually enable</0> browser notifications for this website to get important updates.",
+
+    "enable_native_notif_msg": "You need to manually enable push notifications for this app to get important updates when the app is not open.",
+
+    "enable_notif_manually": "Enable notifications manually",
+
+    "close": "Close",
+
+    "enable": "Enable",
+
+    "choose_browser": "Choose your current browser:",
+
+    "select_browser": "--Select your browser--",
+
+    "visit_official_doc": "Visit the official <0>{{browserName}}</0> documentation / forum below to enable notifications:",
+
+    "reload_website": "Reload our website so that settings would be applied properly.",
+
+    "edit_profile": "Edit Profile",
+
+    "help_faq": "Help and FAQs",
+
+    "signout": "Sign out",
+
+    "welcome": "<0>Welcome, </0> <1>{{currentUser}}</1>",
+
+    "order_id_alias": "Order <0>{{orderIdAlias}}</0>",
+
+    "boxy_order_id_alias": "Boxy Order <0>{{orderIdAlias}}</0>",
+
+    "boxy_profile_id_alias": "Boxy Profile <0>{{boxyProfileIdAlias}}</0>",
+
+    "my_shop": "My Shop",
+
+    "sellers_market": "Local Sellers Market",
+
+    "store_screen": "Store Screen",
+    "shop_items_management": "My Shop Content",
+
+    "purchase_orders": "Purchase Orders",
+
+    "purchasey_order_id_alias": "Purchase Order <0>{{orderIdAlias}}</0>",
+    "my_shop_orders": "My Shop Orders",
+
+    "shop_earnings": "Earnings"
+  },
+
+  "logout_dialog_box": {
+    "confirm": "Confirm Sign Out",
+
+    "please_wait": "Please wait while we signing you out...",
+
+    "are_you_sure": "Are you sure you want to sign out?",
+
+    "cancel": "Cancel",
+
+    "singout": "Sign Out",
+
+    "error": "Error",
+
+    "cannot_logout": "We cannot log you out when there is no internet connection."
+  },
+
+  "package_card_c_pov": {
+    "fragile": "Fragile",
+
+    "size": "Size:",
+
+    "edit": "Edit",
+
+    "remove": "Remove",
+
+    "edit_package": "Edit Package",
+
+    "close": "Close",
+
+    "remove_pack": "Remove Package?",
+
+    "remove_package": "Remove Package",
+
+    "are_you_sure": "Are you sure you want to remove this package?",
+
+    "cancel": "Cancel",
+
+    "delete_package_success": "Package was deleted successfully"
+  },
+
+  "package_form": {
+    "add_package": "Add",
+
+    "adding": "Adding...",
+
+    "return_qr": "Return (QR Code, Receipt or Return Label)",
+
+    "update_package": "Update",
+
+    "updating": "Updating...",
+
+    "no_qr": "No QR was Uploaded",
+
+    "package_desc": "Package Description",
+
+    "package_desc_ex": "e.g. Phillips Black Airfryer",
+
+    "package_desc_hint": "Breifly describe the item(s) in this package",
+
+    "package_size": "Package Size",
+
+    "select_size": "--Select Size--",
+
+    "fragile_pack": "Fragile Package",
+
+    "submit_hint_0": "Before submitting, please remember to provide the driver with the following:",
+
+    "submit_hint_1": "The item(s) you'd like to return, including all accessories.",
+
+    "submit_hint_2": "Receipt, QR or the Return Label for those items.",
+
+    "success": "Success",
+
+    "update_sucess": "Package updated Successfully",
+
+    "add_sucess": "Package Added Successfully",
+
+    "faild": "Failed",
+
+    "update_failed": "Updating package failed, refresh and tryagain.",
+
+    "add_failed": "Adding package failed, refresh and tryagain.",
+
+    "inputs_err": "Please make sure",
+
+    "regular_size": "Regular Size (Smaller than a 50\" TV)",
+
+    "larger_size": "Larger Size (Larger than a 50\" TV)",
+
+    "select_pack_size": "--- Select Package Size ---"
+  },
+
+  "proof_card_c_pov": {
+    "you_upload": "You uploaded this @ {{uploadDate}}",
+
+    "driver_upload": "Driver uploaded this @ {{uploadDate}}"
+  },
+
+  "proof_item_c_pov": {
+    "you_upload": "You uploaded this",
+
+    "driver_upload": "Driver uploaded this"
+  },
+
+  "shrinked_sidebar": {
+    "home": "Home",
+
+    "home_page": "Home Page",
+
+    "my_profile": "My Profile",
+
+    "start_return": "Start New Return",
+
+    "new_return": "New Return",
+
+    "new_request": "New Request",
+
+    "my_returns": "My Returns",
+
+    "help_support": "Help & Support",
+
+    "terms_conditions": "Terms & Conditions",
+
+    "edit_profile": "Edit Profile",
+
+    "dashboard": "Dashboard",
+
+    "pay_info": "Pay Info",
+
+    "friends": "Friends",
+    "boxy_orders": "Boxy Orders",
+
+    "my_shop": "My Shop",
+
+    "purchase_orders": "Purchase Orders",
+
+    "my_orders": "Orders",
+    "my_shop_orders": "My Shop Orders"
+  },
+
+  "view_types_filter": {
+    "list_view": "List view",
+
+    "grid_view": "Grid view"
+  },
+
+  "chatting": {
+    "type_msg": "Type a message",
+    "exceeeded_max_msgs": "Message store has reached its maximum size"
+  },
+
+  "choose_payment_method": {
+    "accepted_cards": "We accept all major debit and credit cards",
+    "add": "Add",
+    "change": "Change",
+    "invalid_card": "Invalid card",
+    "confirm_err_msg": "Please make sure to enter a valid card!",
+    "card_num": "Card Number",
+    "card_cvc": "CVC",
+    "cvc_hint": "3 - 4 digits",
+    "card_expiry": "Expiration Date",
+    "add_new_payment_method": "Add different payment method",
+    "back_to_saved_mathods": "Back to saved payment methods",
+    "saved_paymen_methods": "Choose Payment Method",
+    "save_this_card": "Securely save card info for future payments",
+    "long_press_to_remove": "Long press on card to remove",
+    "remove": "Remove",
+    "removing_card": "Removing Card",
+    "confirm_remove_dialog": "Confirm removing card ending with **** {{last4}}",
+    "removed_success": "Card removed successfully"
+  },
+
+  "device_contacts_list": {
+    "seach_by_name_phonenum": "Search by name or phone number",
+    "no_contacts_found": "No contacts found!",
+    "show_profile": "Show Profile",
+    "boxy_profile": "Boxy Profile",
+    "add_friend": "Add to friends list",
+    "remove_friend": "Remove from friends list",
+    "invited": "Invited",
+    "invite_to_dash": "Invite to DashReturn",
+    "choose_as_receiver": "Choose As Receiver",
+    "on_dashreturn": "On DashReturn",
+    "invite_user": "Invite User"
+  },
+
+  "boxy_orders_history": {
+    "no_boxy_history_found": "No previous orders between you yet.",
+    "you_sent": "<0>You</0> sent <1>{{otherUserName}}</1> {{boxySize}} size boxy",
+    "you_received": "<0>You</0> received {{boxySize}} size boxy from <1>{{otherUserName}}</1>",
+    "you": "You",
+    "sent": "sent",
+    "receiveid": "received",
+    "size_boxy": "size boxy",
+    "from": "From",
+
+    "status": "status: ",
+
+    "alias_as_sender": {
+      "pending_receiver_approval": "Pending {{otherUserName}} Approval",
+      "receiver_approved": "{{otherUserName}} Approved Your Request",
+      "looking": "Looking for a nearby driver, we will notify you",
+      "receiver_rejected": "{{otherUserName}} Rejected Your Request",
+
+      "assigned": "Driver Assigned",
+      "driving_to_pickup": "Driver on their way to pickup",
+      "picking_up": "Driver is picking up",
+      "driving_to_dropoff": "Driver on their way to drop-off",
+      "arrived_dropoff": "Driver arrived to drop-off",
+      "success": "Boxy Delivered Successfully",
+
+      "canceled_by_sender": "Canceled by You (Pending)",
+      "deliver_failed": "Failed to Deliver (Pending)",
+      "returned_to_sender_canceled_by_sender": "Canceled by You",
+      "returned_to_sender_failed": "Failed to Deliver"
+    },
+
+    "alias_as_receiver": {
+      "pending_your_approval": "Pending Your Approval",
+      "you_approved": "You Approved Request",
+      "looking": "Looking for a nearby driver, we will notify you",
+      "you_rejected": "You have rejected request",
+
+      "assigned": "Driver Assigned",
+      "driving_to_pickup": "Driver on their way to pickup",
+      "picking_up": "Driver is picking up",
+      "driving_to_dropoff": "Driver on their way to drop-off",
+      "arrived_dropoff": "Driver arrived to drop-off",
+      "success": "Boxy Delivered Successfully",
+
+      "canceled_by_sender": "Canceled by {{otherUserName}} (Pending)",
+      "deliver_failed": "Failed to Deliver (Pending)",
+      "returned_to_sender_canceled_by_sender": "Canceled by {{otherUserName}}",
+      "returned_to_sender_failed": "Failed to Deliver"
+    }
+  },
+
+  "tags_input": {
+    "input_hint": "Press the space key to add a new tag/keyword"
+  },
+
+  "shop_modal": {
+    "delivery_cost": "Delivery Cost",
+    "enter_store": "Enter Store",
+    "saved": "Saved",
+    "save": "Save",
+    "view_qr": "QR Code",
+    "all_sellers_verified": "All Sellers Verified by DashReturn",
+    "special_offer": "Special Offer",
+
+    "history": "Purchase Orders History",
+    "no_history_yet": "No orders from this shop yet!",
+    "orderedItemsCount": "Items Count: {{itemsCount}}",
+    "totalCost": "Total Cost: <0>${{totalCost}}</0>",
+
+    "free": "Free",
+    "upon_choosing_promo": "Upon choosing {{discount}}% OFF coupon",
+    "shop_status": {
+      "open": "Available Now",
+      "closed": "Closed Now",
+      "idle": "Away - Expect Some Delays"
+    },
+
+    "share_shop_msg_title": "DashReturn's Market",
+    "share_shop_msg": "Checkout this shop on DashReturn, {{shopUrl}}",
+    "success_copy": "Shop copied successfully"
+  },
+
+  "shop_faqs_customer_pov": {
+    "shop_faqs": "Shop FAQs",
+    "no_faqs_yet": "No FAQs added yet for this shop"
+  },
+
+  "orders_modal": {
+    "my_orders": "My Orders",
+    "return_orders": "Return Orders",
+    "boxy_orders": "Local Deliveries",
+    "purchase_orders": "Purchase Orders"
+  },
+
+  "new_order_timer": {
+    "open_order": "Open Order",
+    "new_purchase_order": "New Purchase Order",
+    "time_to_make_money": "Time to make money"
+  },
+
+  "driver_tracking_map": {
+    "driver_not_found": "Could not locate driver, please contact driver for ETA",
+    "driver_eta_zero": "Driver is here!",
+    "driver_eta_one": "Arriving in about {{duration}} minute",
+    "driver_eta_plural": "Arriving in about {{duration}} minutes"
+  }
+}

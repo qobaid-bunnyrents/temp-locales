@@ -1,0 +1,23 @@
+{
+  "name": "Name",
+
+  "first_last_name": "First and last name.",
+
+  "email": "Email",
+
+  "email_hint": "Email will be used to share important updates with you including your returns status.",
+
+  "faild": "Failed",
+
+  "done": "DONE",
+
+  "signout": "Sign out",
+
+  "complete_your_profile": "Complete Your Profile <0>({{phoneNumber}})</0>",
+
+  "welcome": "Welcome to DashReturn",
+
+  "lets_setup": "Last step and you are all set to start returning",
+
+  "email_err_msg": "Invalid email format"
+}

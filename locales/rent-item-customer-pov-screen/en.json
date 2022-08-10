@@ -1,4 +1,4 @@
 {
   "rent_now": "Rent Now",
-  "available_rate":"Available ${{pay}} / ${{unit}}",
+  "available_rate":"Available ${{pay}} / ${{unit}}"
 }

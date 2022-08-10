@@ -1,4 +1,5 @@
 {
   "rent_now": "Rent Now",
-  "available_rate":"Available ${{pay}} / ${{unit}}"
+  "available_rate":"Available ${{pay}} / {{unit}}",
+  "based_on_review":"Based on {{count}} reviews"
 }

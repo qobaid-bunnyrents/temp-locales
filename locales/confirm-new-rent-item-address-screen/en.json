@@ -1,5 +1,6 @@
 {
   "confirm": "Confirm",
   "add_location":"Add Location",
-  "where_should_pickup":"Where should we pick up your item from?"
+  "where_should_pickup":"Where should we pick up your item from?",
+  "change_location":"Change Location"
 }

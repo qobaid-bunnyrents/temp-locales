@@ -1,1 +1,6 @@
-{}
+{
+  "no_results": "No results found! Type another \"Address\".",
+  "no_results_initially": "Start typing \"Address\" to get results here.",
+  "search_nearby": "Search Nearby",
+  "use_this_location":"Use this location"
+}

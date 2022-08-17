@@ -2,5 +2,7 @@
   "no_results": "No results found",
   "no_results_initially": "Results will appear here",
   "search_nearby": "Search Nearby",
-  "use_this_location":"Use this location"
+  "use_this_location":"Use this location",
+  "address_out_of_bound_err_msg":"You only can rent out from a location within the above pink area",
+  "err":"Error"
 }

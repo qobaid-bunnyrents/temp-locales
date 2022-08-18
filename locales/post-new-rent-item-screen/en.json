@@ -4,5 +4,7 @@
   "be_descriptive":"Be as descriptive as you could",
      "title":"Title",
     "desc":"Description",
-    "terms_n_rate":"Terms & Rate"
+    "terms_n_rate":"Terms & Rate",
+  "terms_n_rate_hint_1":"How would you like to rent out your item?",
+  "terms_n_rate_hint_2":"You can choose multiple"
 }

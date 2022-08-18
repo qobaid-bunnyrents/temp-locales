@@ -1,5 +1,8 @@
 {
   "next":"Next",
 "item_info":"Item Info",
-  "be_descriptive":"Be as descriptive as you could"
+  "be_descriptive":"Be as descriptive as you could",
+     "title":"Title",
+    "desc":"Description",
+    "terms_n_rate":"Terms & Rate"
 }

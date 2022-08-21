@@ -1,4 +1,5 @@
 {
   "search_by_category": "Search by category",
-  "show_all_result": "Show all results <0>\"{{searchKey}}\"<0/>"
+  "show_all_result": "Show all results <0>\"{{searchKey}}\"<0/>",
+  "no_items_found":"No results found"
 }

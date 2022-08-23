@@ -1,13 +1,8 @@
 {
-  "enter_pin": "Enter the PIN code sent to the phone number <0>{{phoneNumber}}</0>",
-
-  "failed": "Failed",
-
+  "verify_account":"Verify Account",
+  "enter_pin_hint": "Please, enter the verification code we sent to your mobile {{phoneNumber}}",
+  "not_your_phone":"Not your phone number?",
   "verify": "Verify",
-
-  "signout": "Sign out",
-
-  "verify_your_num": "Verify Your Phone Number",
-
-  "hint": "<0>Click here</0> if you waited more than 3 minutes and didn't receive the verification code sent to <1>{{phoneNumber}}</1>"
+  "failed": "Failed",
+  "need_help":"Need help?"
 }

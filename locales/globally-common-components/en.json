@@ -87,5 +87,12 @@
   "search_list": {
     "no_results": "No search results!",
     "header": "Choose From the List"
+  },
+  
+  "toast_msg":{
+  "success":"Success",
+    "err":"Error",
+    "info":"Info",
+    "warning":"Warning"
   }
 }

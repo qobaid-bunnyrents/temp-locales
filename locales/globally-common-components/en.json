@@ -40,16 +40,19 @@
 
     "imgs_chosen": "Images chosen",
 
-    "choose_img": "Choose image",
+    "choose_img": "Choose Image",
 
-    "choose_imgs": "Choose images",
+    "choose_imgs": "Choose Images",
 
     "err_while_processing": "Faild to process, try again with different image(s) !",
 
     "processing": "Processing...",
 
     "take_photo": "Take a photo",
-    "choose_from_library": "Choose from library"
+    "choose_from_library": "Choose from library",
+    
+    "photos":"Photos",
+"camera":"Camera"
   },
 
   "google_map_link": {

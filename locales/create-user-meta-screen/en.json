@@ -1,3 +1,7 @@
 {
-  "done":"Done"
+  "done":"Done",
+  "choose_profile_pic":"Choose a profile picture",
+  "or_upload":"Or upload your photo",
+  "what_your_name":"What's your name?",
+  "name_example":"e.g. John Smith"
 }

@@ -6,5 +6,39 @@
   "no_rent_items": "No items posted yet",
   "my_listing": "My Listing",
   "add_pickup_address": "Add Pick-up Address",
-  "pickup_address_hint": "We will pick-up your rented items from"
+  "pickup_address_hint": "We will pick-up your rented items from",
+  "rented_times":"Rented {{times}} times",
+  "rentee_can_buy":"Rentee can buy this item",
+  "availability": {
+    "available":"Available for rent",
+    "unavailble":"Unavailable for rent",
+    "rented":"Rented Now"
+  },
+  
+  "item_bottom_sheet":{
+    "mark_available": {
+      "title":"Mark available",
+      "desc":"Item will become available for people to rent"
+    },
+    
+    "mark_unavailable": {
+      "title":"Mark unavailable",
+      "desc":"Item will become unavailable for people to rent"
+    },
+    
+    "manage": {
+      "title":"Manage",
+      "desc":"Manage and update item"
+    },
+    
+    "sell": {
+      "title":"Open to sell?",
+      "desc":"Let rentees have an option to buy your item"
+    },
+    
+    "remove": {
+      "title":"Remove",
+      "desc":"Cannot be undone"
+    }
+  }
 }

@@ -38,9 +38,16 @@
     
     "sell": {
       "title":"Open to sell?",
-      "desc":"Let rentees have an option to buy your item"
+      "desc":"Let renters have an option to buy your item"
     },
     
+    "not_open_sell": {
+      "title":"Not open to sell?",
+      "desc":"Renters will no longer have an option to buy your item"
+    },
+    
+    
+
     "remove": {
       "title":"Remove",
       "desc":"Cannot be undone"

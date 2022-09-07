@@ -26,6 +26,11 @@
       "desc":"Item will become unavailable for people to rent"
     },
     
+    "mark_unavialble_but_stil_renter": {
+      "title":"Mark unavailable",
+      "desc":"Cannot mark unavailable while item is still rented"
+    },
+    
     "manage": {
       "title":"Manage",
       "desc":"Manage and update item"

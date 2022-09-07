@@ -1,0 +1,23 @@
+{
+  "view_profile": "View Profile",
+  "inviter_freind": "Invite a friend",
+
+  "premium": {
+    "heading": "Upgrade to premuim for ($9.99/month)",
+    "desc": {
+      "a": "Unlimited free deliveries",
+      "b": "0% loyalty fees on renting out unlimited items"
+    }
+  },
+
+  "quick_actions": {
+    "saved_n_fav": "Saved & Favorites",
+    "dash_n_summery": "Dashboard & Summary",
+    "payment": "Payment Settings",
+    "premium": "Manage Premium Subscription",
+    "blocked": "Blocked Users & Messages",
+    "help": "Help & Support Page"
+  },
+
+  "logout": "Log out"
+}

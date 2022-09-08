@@ -17,6 +17,7 @@
   "save_changes": "Save Changes",
    "add_photo": "Add Photo",
   "add_img_modal":{
-    "add_and_upload":"Add and Upload"
+    "add_and_upload":"Add and Upload",
+    "add_photo":"Add a Photo"
   }
 }

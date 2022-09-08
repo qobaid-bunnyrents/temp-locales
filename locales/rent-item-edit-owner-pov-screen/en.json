@@ -15,5 +15,8 @@
   "title_label": "Title",
   "desc_label": "Description",
   "save_changes": "Save Changes",
-   "add_photo": "Add Photo"
+   "add_photo": "Add Photo",
+  "add_img_modal":{
+    "add_and_upload":"Add and Upload"
+  }
 }

@@ -20,5 +20,10 @@
     "title":"Add New Photos",
     "add_and_upload":"Add and Upload",
     "add_photo":"Add a Photo"
+  },
+  
+  "delete_img_confirm":{
+    "title":"Image Deletion",
+    "desc":"Are you sure you want to delete this image (this action cannot be undone)?"
   }
 }

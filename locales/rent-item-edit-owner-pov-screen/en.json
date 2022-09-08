@@ -18,7 +18,7 @@
    "add_photo": "Add Photo",
   "add_img_modal":{
     "title":"Add New Photos",
-    "add_and_upload":"Add and Upload",
+    "add_and_upload":"Upload",
     "add_photo":"Add a Photo",
     "success":"Image(s) uploaded successfully"
   },

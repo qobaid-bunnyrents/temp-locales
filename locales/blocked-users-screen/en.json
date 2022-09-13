@@ -1,0 +1,11 @@
+{
+  "screen_heading": "Blocked Users",
+  "screen_hint": "When you block someone you will not be able to message or rent from each other",
+  "no_blocked_users": "No blocked users",
+  "unblock": "Unblock",
+  "cofirm_unblock": {
+    "what": "Unblocking",
+    "desc": "Are you sure you want to unblock this user?",
+    "confirm": "Confirm"
+  }
+}

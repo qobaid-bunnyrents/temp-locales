@@ -6,6 +6,7 @@
   "cofirm_unblock": {
     "what": "Unblocking",
     "desc": "Are you sure you want to unblock this user?",
-    "confirm": "Confirm"
+    "confirm": "Confirm",
+    "unblocked_success":"User has been unblocked successfully"
   }
 }

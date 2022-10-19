@@ -11,6 +11,7 @@
   "report_desc":"Report an issue or a violation",
   
     "block_label":"Block Messages",
-  "block_desc":"Block this profile from messaging you"
+  "block_desc":"Block this profile from messaging you",
+  "no_items_found": "No Items Found!"
 
 }

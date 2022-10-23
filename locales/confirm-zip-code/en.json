@@ -5,5 +5,6 @@
   "or": "Or",
   "apply": "Apply",
   "search_input_placeholder":"Enter a zip code",
-  "failed_to_confirm_location":"Failed to confirm zip code!"
+  "failed_to_confirm_location":"Failed to confirm zip code!",
+  "update":"Update"
 }

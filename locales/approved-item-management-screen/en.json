@@ -3,6 +3,6 @@
   "listed_in": "Listed in: {{areaName}}",
   "rented_times_one": "{{count}} Time Rented",
   "rented_times_other": "{{count}} Times Rented",
-  "reviews_one": "Review",
-  "reviews_other": "Reviews"
+  "reviews_one": "{{count}} Review",
+  "reviews_other": "{{count}} Reviews"
 }

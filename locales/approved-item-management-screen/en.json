@@ -1,3 +1,4 @@
 {
-  "screen_heading": "Manage item"
+  "screen_heading": "Manage item",
+  "listed_in": "Listed in: {{areaName}}"
 }

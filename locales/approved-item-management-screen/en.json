@@ -5,18 +5,6 @@
   "rented_times_other": "{{count}} Times Rented",
   "reviews_one": "{{count}} Review",
   "reviews_other": "{{count}} Reviews",
-  "item_bottom_sheet": {
-    "remove": {
-      "title": "Remove",
-      "desc": "Permanently remove item"
-    },
-
-    "contact_support": {
-      "title": "Report a problem",
-      "desc": "Contact our support for issues with this listing"
-    }
-  },
-
   "mark_as_inactive": "Mark as Inactive",
   "mark_as_available": "Mark as Available",
   "open_to_sell": "Open to sell?"

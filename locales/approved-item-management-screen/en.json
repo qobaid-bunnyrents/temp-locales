@@ -15,5 +15,9 @@
       "title": "Report a problem",
       "desc": "Contact our support for issues with this listing"
     }
-  }
+  },
+
+  "mark_as_inactive": "Mark as Inactive",
+  "mark_as_available": "Mark as Available",
+  "open_to_sell": "Open to sell?"
 }

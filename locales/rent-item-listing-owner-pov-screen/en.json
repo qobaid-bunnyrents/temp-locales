@@ -13,44 +13,5 @@
     "available":"Available for rent",
     "unavailble":"Unavailable for rent",
     "rented":"Rented Now"
-  },
-  
-  "item_bottom_sheet":{
-    "mark_available": {
-      "title":"Mark available",
-      "desc":"Item will become available for people to rent"
-    },
-    
-    "mark_unavailable": {
-      "title":"Mark unavailable",
-      "desc":"Item will become unavailable for people to rent"
-    },
-    
-    "mark_unavialble_but_stil_renter": {
-      "title":"Mark unavailable",
-      "desc":"Cannot mark unavailable while item is still rented"
-    },
-    
-    "manage": {
-      "title":"Manage",
-      "desc":"Manage and update item"
-    },
-    
-    "sell": {
-      "title":"Open to sell?",
-      "desc":"Let renters have an option to buy your item"
-    },
-    
-    "not_open_sell": {
-      "title":"Not open to sell?",
-      "desc":"Renters will no longer have an option to buy your item"
-    },
-    
-    
-
-    "remove": {
-      "title":"Remove",
-      "desc":"Cannot be undone"
-    }
   }
 }

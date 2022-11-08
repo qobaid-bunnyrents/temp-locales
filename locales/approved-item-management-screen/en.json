@@ -10,5 +10,13 @@
   "open_to_sell": "Open to sell?",
   "prev_rents": "Previous Rents",
   "current_rents_heading": "Current rents and requests",
-  "current_rents_hint": "Upon approving one request, other requests will be rejected automatically"
+  "current_rents_hint": "Upon approving one request, other requests will be rejected automatically",
+  "would_like_to_rent_one": "Would like to rent this item for {{count}} {{termAlais}}",
+  "would_like_to_rent_other": "Would like to rent this item for {{count}} {{termAlais}}s",
+  "hour": "hour",
+  "day": "day",
+  "week": "week",
+  "month": "month",
+  "approve": "Approve",
+  "reject": "Reject"
 }

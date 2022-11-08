@@ -19,5 +19,13 @@
       "success": "Image deleted successfully",
       "confirm": "Confirm"
     }
+  },
+
+  "edit_desc_modal": {
+    "edit_failed": "Failed to update description",
+    "edit_success": "Description updated successfully",
+    "desc": "Description",
+    "title": "Edit Description",
+    "save": "Save"
   }
 }

@@ -35,5 +35,13 @@
     "name": "Name",
     "title": "Edit Name",
     "save": "Save"
+  },
+
+  "edit_terms_modal": {
+    "edit_failed": "Failed to update terms",
+    "edit_success": "Terms updated successfully",
+    "terms": "Terms",
+    "title": "Edit Terms",
+    "save": "Save"
   }
 }

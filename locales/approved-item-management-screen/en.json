@@ -1,6 +1,6 @@
 {
   "screen_heading": "Manage item",
-  "listed_in": "Listed in: {{areaName}}",
+  "listed_in": "Listed in:",
   "rented_times_one": "{{count}} Time Rented",
   "rented_times_other": "{{count}} Times Rented",
   "reviews_one": "{{count}} Review",

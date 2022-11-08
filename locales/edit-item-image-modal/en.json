@@ -3,6 +3,8 @@
 
   "add_new_photos": "Add New Photos",
 
+  "no_imgs_yet": "No images yet.",
+
   "add_img_modal": {
     "add_photo": "Add a Photo",
     "success": "Image(s) uploaded successfully",

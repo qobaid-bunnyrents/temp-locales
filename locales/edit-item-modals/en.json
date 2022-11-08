@@ -1,0 +1,23 @@
+{
+  "edit_img_modal": {
+    "title": "Item Images",
+
+    "add_new_photos": "Add New Photos",
+
+    "no_imgs_yet": "No images yet.",
+
+    "add_img_modal": {
+      "add_photo": "Add a Photo",
+      "success": "Image(s) uploaded successfully",
+      "back_n_cacnel": "Back & Cancel Upload",
+      "add_and_upload": "Upload"
+    },
+
+    "delete_img_confirm": {
+      "title": "Image Deletion",
+      "desc": "This action can't be undone",
+      "success": "Image deleted successfully",
+      "confirm": "Confirm"
+    }
+  }
+}

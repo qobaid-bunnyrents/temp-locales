@@ -27,5 +27,13 @@
     "desc": "Description",
     "title": "Edit Description",
     "save": "Save"
+  },
+
+  "edit_name_modal": {
+    "edit_failed": "Failed to update name",
+    "edit_success": "Name updated successfully",
+    "name": "Name",
+    "title": "Edit Name",
+    "save": "Save"
   }
 }

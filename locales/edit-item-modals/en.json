@@ -43,5 +43,13 @@
     "terms": "Terms",
     "title": "Edit Terms",
     "save": "Save"
+  },
+
+  "delete_item_modal": {
+    "title": "Confirm Removing Item",
+    "confirm_dialog": "Confirm that you want to fully remove \"{{itemName}}\" by typing \"{{deleteWord}}\" in the text field",
+    "type_delete": "Type \"{{deleteWord}}\"",
+    "confirm": "Confirm",
+    "remove_success": "Item removed successfully"
   }
 }

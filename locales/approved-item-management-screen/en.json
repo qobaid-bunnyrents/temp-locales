@@ -1,10 +1,5 @@
 {
   "screen_heading": "Manage Item",
-  "listed_in": "Listed in:",
-  "rented_times_one": "{{count}} Time Rented",
-  "rented_times_other": "{{count}} Times Rented",
-  "reviews_one": "{{count}} Review",
-  "reviews_other": "{{count}} Reviews",
   "mark_as_inactive": "Mark as Inactive",
   "mark_as_available": "Mark as Available",
   "open_to_sell": "Open to sell?",

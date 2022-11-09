@@ -1,0 +1,6 @@
+{
+  "screen_heading": "Manage Item",
+  "status_hint_main": "Your listing is under review",
+  "status_hint_secondary": "We will update you very soon",
+  "item_num": "Item number: {{itemNum}}"
+}

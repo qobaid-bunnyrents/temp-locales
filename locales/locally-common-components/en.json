@@ -60,5 +60,13 @@
       "title": "Report a problem",
       "desc": "Contact our support for issues with this listing"
     }
+  },
+
+  "editable_rent_item_info_owner_pov": {
+    "listed_in": "Listed in:",
+    "rented_times_one": "{{count}} Time Rented",
+    "rented_times_other": "{{count}} Times Rented",
+    "reviews_one": "{{count}} Review",
+    "reviews_other": "{{count}} Reviews"
   }
 }

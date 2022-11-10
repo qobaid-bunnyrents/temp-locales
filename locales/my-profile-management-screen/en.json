@@ -6,5 +6,14 @@
   "your_pass_heading": "Your Password",
   "your_pass_hint": "Change your password",
   "prefred_address_heading": "Preferred Addresses",
-  "prefred_address_hint": "Manage your preferred addresses"
+  "prefred_address_hint": "Manage your preferred addresses",
+
+  "change_pass_modal": {
+    "change_success": "Password changed successfully",
+    "old_pass": "Old Password",
+    "new_pass": "New Password",
+    "pass_format_err_msg": "Password must contain letters and numbers",
+    "title": "Change Password",
+    "save": "Save"
+  }
 }

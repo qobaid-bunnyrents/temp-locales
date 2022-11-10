@@ -1,3 +1,10 @@
 {
-  "screen_heading": "My Profile"
+  "screen_heading": "My Profile",
+  "reviews_count_one": "Based on {{count}} review",
+  "reviews_count_other": "Based on {{count}} reviews",
+  "settings": "Settings",
+  "your_pass_heading": "Your Password",
+  "your_pass_hint": "Change your password",
+  "prefred_address_heading": "Preferred Addresses",
+  "prefred_address_hint": "Manage your preferred addresses"
 }

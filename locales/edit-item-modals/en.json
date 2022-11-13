@@ -70,5 +70,17 @@
     "save": "Save",
     "confirm": "Confirm",
     "selling_price": "Selling Price"
+  },
+
+  "edit_availability_modal": {
+    "edit_failed": "Failed to update availability",
+    "edit_success": "Availability status updated successfully",
+    "title": "Confirm Updating Availability",
+    "confirm_dialog": {
+      "activate": "Confirm that you want to activate \"{{itemName}}\" by typing \"{{word}}\" in the text field",
+      "deactivate": "Confirm that you want to deactivate \"{{itemName}}\" by typing \"{{word}}\" in the text field"
+    },
+    "type_word": "Type \"{{word}}\"",
+    "confirm": "Confirm"
   }
 }

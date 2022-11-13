@@ -15,5 +15,14 @@
     "pass_format_err_msg": "Password must contain letters and numbers",
     "title": "Change Password",
     "save": "Save"
+  },
+
+  "update_profile": {
+    "title": "Update My Profile",
+    "update_success": "Profile updated successfully",
+    "name": "Name",
+    "desc": "Motto",
+    "email": "Email",
+    "save": "Save"
   }
 }

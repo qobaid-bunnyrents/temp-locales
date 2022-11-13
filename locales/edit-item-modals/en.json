@@ -51,5 +51,24 @@
     "type_delete": "Type \"{{deleteWord}}\"",
     "confirm": "Confirm",
     "remove_success": "Item removed successfully"
+  },
+
+  "edit_sellable_modal": {
+    "edit_failed": "Failed to update sellable status",
+    "edit_success": "Sellable status updated successfully",
+    "open_to_sell": "Open to Sell",
+    "title": {
+      "not_open": "Not Open to Sell?",
+      "open": "Open to Sell?"
+    },
+
+    "desc": {
+      "not_open": "By pressing \"confirm\", renters will no longer have an option to by your item.",
+      "open": "Open to Sell?"
+    },
+
+    "save": "Save",
+    "confirm": "Confirm",
+    "selling_price": "Selling Price"
   }
 }

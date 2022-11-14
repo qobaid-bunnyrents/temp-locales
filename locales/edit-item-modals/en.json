@@ -2,6 +2,8 @@
   "edit_img_modal": {
     "title": "Item Images",
 
+    "current_imgs": "Current Item Images",
+
     "add_new_photos": "Add New Photos",
 
     "no_imgs_yet": "No images yet.",

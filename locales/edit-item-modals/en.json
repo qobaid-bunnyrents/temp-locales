@@ -35,7 +35,7 @@
 
   "edit_name_modal": {
     "edit_failed": "Failed to update title",
-    "edit_success": "Name updated successfully",
+    "edit_success": "Title updated successfully",
     "name": "Title",
     "title": "Edit Title",
     "save": "Save",

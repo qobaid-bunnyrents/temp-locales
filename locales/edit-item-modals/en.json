@@ -86,7 +86,7 @@
 
     "desc": {
       "not_open": "By pressing \"confirm\", renters will no longer have an option to by your item.",
-      "open": ""
+      "open": "Renters will have an option to by your item."
     },
 
     "save": "Save",

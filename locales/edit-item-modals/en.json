@@ -30,7 +30,11 @@
     "edit_success": "Description updated successfully",
     "desc": "Description",
     "title": "Edit Description",
-    "save": "Save"
+    "save": "Save",
+    "update": "Update",
+    "cancel": "Cancel",
+    "mainHeading": "Update Description",
+    "subHeading": "let people know exactly what you are renting"
   },
 
   "edit_name_modal": {

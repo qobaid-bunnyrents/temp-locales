@@ -100,8 +100,8 @@
     "edit_success": "Availability status updated successfully",
 
     "title": {
-      "activate": "Change status to available",
-      "deactivate": "Change status to hidden"
+      "activate": "Change Status to Available",
+      "deactivate": "Change Status to Hidden"
     },
 
     "confirm_dialog": {

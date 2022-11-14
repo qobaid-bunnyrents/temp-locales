@@ -86,12 +86,13 @@
 
     "desc": {
       "not_open": "By pressing \"confirm\", renters will no longer have an option to by your item.",
-      "open": "Open to Sell?"
+      "open": ""
     },
 
     "save": "Save",
     "confirm": "Confirm",
-    "selling_price": "Selling Price"
+    "selling_price": "Selling Price",
+    "cancel": "Cancel"
   },
 
   "edit_availability_modal": {

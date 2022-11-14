@@ -8,7 +8,7 @@
   "add_pickup_address": "Add Pick-up Address",
   "pickup_address_hint": "We will pick-up your rented items from",
   "rented_times":"Rented {{times}} times",
-  "rentee_can_buy":"Rentee can buy this item",
+  "rentee_can_buy":"Open For Sale",
   "availability": {
     "available":"Available for rent",
     "unavailble":"Unavailable for rent",

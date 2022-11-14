@@ -98,12 +98,18 @@
   "edit_availability_modal": {
     "edit_failed": "Failed to update availability",
     "edit_success": "Availability status updated successfully",
-    "title": "Confirm Updating Availability",
-    "confirm_dialog": {
-      "activate": "Confirm that you want to activate \"{{itemName}}\" by typing \"{{word}}\" in the text field",
-      "deactivate": "Confirm that you want to deactivate \"{{itemName}}\" by typing \"{{word}}\" in the text field"
+
+    "title": {
+      "activate": "Change status to available",
+      "deactivate": "Change status to hidden"
     },
-    "type_word": "Type \"{{word}}\"",
-    "confirm": "Confirm"
+
+    "confirm_dialog": {
+      "activate": "Item will become available for people to rent",
+      "deactivate": "Item will not be available for rent anymore"
+    },
+
+    "confirm": "Confirm",
+    "cancel": "Cancel"
   }
 }

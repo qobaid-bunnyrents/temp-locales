@@ -34,11 +34,15 @@
   },
 
   "edit_name_modal": {
-    "edit_failed": "Failed to update name",
+    "edit_failed": "Failed to update title",
     "edit_success": "Name updated successfully",
-    "name": "Name",
-    "title": "Edit Name",
-    "save": "Save"
+    "name": "Title",
+    "title": "Edit Title",
+    "save": "Save",
+    "update": "Update",
+    "cancel": "Cancel",
+    "mainHeading": "Update Title",
+    "subHeading": "Make it descriptive"
   },
 
   "edit_terms_modal": {

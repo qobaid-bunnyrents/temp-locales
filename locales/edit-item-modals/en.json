@@ -42,7 +42,10 @@
     "edit_success": "Terms updated successfully",
     "terms": "Terms",
     "title": "Edit Terms",
-    "save": "Save"
+    "update": "Update",
+    "cancel": "Cancel",
+    "mainHeading": "Update Terms and Rates",
+    "subHeading": "Keep it competetive"
   },
 
   "delete_item_modal": {

@@ -54,11 +54,13 @@
   },
 
   "delete_item_modal": {
-    "title": "Confirm Removing Item",
-    "confirm_dialog": "Confirm that you want to fully remove \"{{itemName}}\" by typing \"{{deleteWord}}\" in the text field",
-    "type_delete": "Type \"{{deleteWord}}\"",
+    "mainHeading": "Removing Item?",
+    "subHeading": "Removing item cannot be undone",
+    "type_delete_hint": "Type \"{{deleteWord}}\" to confirm",
+    "type_delete_placeholder": "Type \"{{deleteWord}}\"",
     "confirm": "Confirm",
-    "remove_success": "Item removed successfully"
+    "remove_success": "Item removed successfully",
+    "cancel": "Cancel"
   },
 
   "edit_sellable_modal": {

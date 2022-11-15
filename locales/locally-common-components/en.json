@@ -68,5 +68,13 @@
     "rented_times_other": "{{count}} Times Rented",
     "reviews_one": "{{count}} Review",
     "reviews_other": "{{count}} Reviews"
+  },
+
+  "editable_items_terms_section": {
+    "set_term_hint": "Set the per/{{termAlias}} renting rate of the item",
+    "set_term_min_hint": "(minimum ${{min}} is required)",
+    "or": "or",
+    "disable_term": "Disable {{term}}",
+    "no_terms_yet": "No terms set yet."
   }
 }

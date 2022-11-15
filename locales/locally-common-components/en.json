@@ -75,6 +75,6 @@
     "set_term_min_hint": "(minimum ${{min}} is required)",
     "or": "or",
     "disable_term": "Disable {{term}}",
-    "no_terms_yet": "No terms set yet."
+    "no_terms_yet": "Minimum one option is required."
   }
 }

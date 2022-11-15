@@ -57,12 +57,7 @@
     "update": "Update",
     "cancel": "Cancel",
     "mainHeading": "Update Terms and Rates",
-    "subHeading": "Keep it competetive",
-    "set_term_hint": "Set the per/{{termAlias}} renting rate of the item",
-    "set_term_min_hint": "(minimum ${{min}} is required)",
-    "or": "or",
-    "disable_term": "Disable {{term}}",
-    "no_terms_yet": "No terms set yet."
+    "subHeading": "Keep it competetive"
   },
 
   "delete_item_modal": {

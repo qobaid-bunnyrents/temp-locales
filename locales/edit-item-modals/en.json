@@ -1,8 +1,11 @@
 {
   "edit_img_modal": {
     "title": "Item Images",
+    "sub_title":"Add clear photos of your item",
 
     "current_imgs": "Current Item Images",
+
+  
 
     "add_new_photos": "Add New Photos",
 
@@ -22,7 +25,7 @@
     },
 
     "cancel": "Cancel",
-    "add_and_upload": "Upload"
+    "add_and_upload": "Upload & Save"
   },
 
   "edit_desc_modal": {

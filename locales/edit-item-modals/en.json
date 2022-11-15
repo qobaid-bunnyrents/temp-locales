@@ -80,19 +80,24 @@
     "edit_success": "Sellable status updated successfully",
     "open_to_sell": "Open to Sell",
     "title": {
-      "not_open": "Not Open to Sell?",
-      "open": "Open to Sell?"
+      "not_open": "Not open to sell anymore?",
+      "open": "Open to sell your item?"
     },
 
     "desc": {
-      "not_open": "By pressing \"confirm\", renters will no longer have an option to by your item.",
-      "open": "Renters will have an option to by your item."
+      "not_open": "Renters will no longer have an option to buy your item.",
+      "open": "Renters will have an option to buy your item for the price you set (minimum of ${{min}})"
     },
 
     "save": "Save",
     "confirm": "Confirm",
     "selling_price": "Selling Price",
-    "cancel": "Cancel"
+    "cancel": "Cancel",
+
+    "service_fee_hint": "{{feePercent}}% service fee will be deducted from item's price.",
+    "set_your_price": "Set your price",
+    "your_payout": "Your payout",
+    "terms_conditions": "By proceeding, you agree to the <0>terms</0> and <1>conditions</1>"
   },
 
   "edit_availability_modal": {

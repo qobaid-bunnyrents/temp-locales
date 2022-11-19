@@ -6,9 +6,9 @@
   "login": "Login",
   "need_help": "Need Help? Contact Support",
   "dont_have_account": "Don't have an account?",
-  "pass_format_err_msg": "Password must contain letters and numbers",
-  "pass_hint": "It must be 6-20 characters long, containing letters and numbers.",
+  "pass_format_err_msg": "Password must contain numbers, capital letters and small letters.",
   "email":"Email",
   "phone_num": "Phone Number",
-  "register_successfully":"Account was created successfully"
+  "register_successfully":"Account was created successfully",
+  "pass_hint":"Password (at least one number, one capital letter and one small letter required)"
 }

@@ -20,5 +20,12 @@
   "rented_times": "Times Rented: {{count}}",
   "reviews_one": "{{count}} Review",
   "reviews_other": "{{count}} Reviews",
-  "open_for_sale": "Open For Sale"
+  "open_for_sale": "Open For Sale",
+  "rental_rates": "Rental Rates",
+  "item_desc": "Description",
+  "faqs_heading": "FAQs and Instructions",
+  "faqs_desc": "Answer people's frequently asked questions about your item and the HOW-TOs.",
+  "features_heading": "Your Item Earned Badges",
+  "post_vedio": "Post vidoe of your item",
+  "enroll_to_xpress": "Enroll your item in BunnyXPRESS Program"
 }

@@ -17,8 +17,7 @@
   "open_to_sell_hint": "You marked this item as open to sell for ${{price}}",
   "badges": "Badges",
   "categories": "Categories",
-  "rented_times_one": "{{count}} Time Rented",
-  "rented_times_other": "{{count}} Times Rented",
+  "rented_times": "Times Rented: {{count}}",
   "reviews_one": "{{count}} Review",
   "reviews_other": "{{count}} Reviews",
   "open_for_sale": "Open For Sale"

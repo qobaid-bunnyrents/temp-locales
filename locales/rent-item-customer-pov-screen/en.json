@@ -1,5 +1,19 @@
 {
-  "rent_now": "Rent Now",
-  "available_rate":"Available ${{pay}} / {{unit}}",
-  "based_on_review":"Based on {{count}} reviews"
+  "available_rate": "Available ${{pay}} / {{unit}}",
+  "based_on_review": "Based on {{count}} reviews",
+  "similar_listing": "Similar Listing",
+  "no_rent_items": "No similar listing found.",
+  "faqs_heading": "FAQs and Instructions",
+  "share_listing": "Share Listing",
+  "save_listing": "Save Listing",
+  "unavailable_status": "Item is currently not available for rent",
+  "rent_btn_available": "Rent Now",
+  "rent_btn_unavailable": "Currently not available",
+  "rent_btn_rented": "Notify me when available",
+  "menu_bottom_sheet": {
+    "report": {
+      "main": "Report listing",
+      "secondary": "Report a problem with this listing"
+    }
+  }
 }

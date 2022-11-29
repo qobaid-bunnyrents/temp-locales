@@ -100,7 +100,7 @@
   },
 
   "date": {
-    "now": "just now",
+    "now": "Just Now",
 
     "created_in_minute_one": "{{count}} minute ago",
 

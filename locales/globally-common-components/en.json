@@ -50,9 +50,9 @@
 
     "take_photo": "Take a photo",
     "choose_from_library": "Choose from library",
-    
-    "photos":"Photos",
-"camera":"Camera"
+
+    "photos": "Photos",
+    "camera": "Camera"
   },
 
   "google_map_link": {
@@ -91,11 +91,31 @@
     "no_results": "No search results!",
     "header": "Choose From the List"
   },
-  
-  "toast_msg":{
-  "success":"Success",
-    "err":"Error",
-    "info":"Info",
-    "warning":"Warning"
+
+  "toast_msg": {
+    "success": "Success",
+    "err": "Error",
+    "info": "Info",
+    "warning": "Warning"
+  },
+
+  "date": {
+    "now": "just now",
+
+    "created_in_minute_one": "{{count}} minute ago",
+
+    "created_in_minute_other": "{{count}} minutes ago",
+
+    "created_in_hour_one": "{{count}} hour ago",
+
+    "created_in_hour_other": "{{count}} hours ago",
+
+    "created_in_day_one": "{{count}} day ago",
+
+    "created_in_day_other": "{{count}} days ago",
+
+    "created_in_week_one": "{{count}} week ago",
+
+    "created_in_week_other": "{{count}} weeks ago"
   }
 }

@@ -29,5 +29,6 @@
   "post_vedio": "Post video of your item",
   "enroll_to_xpress": "Enroll your item in BunnyXPRESS Program",
   "saved_times_one":"Saved by {{count}} user",
-  "saved_times_other":"Saved by {{count}} users"
+  "saved_times_other":"Saved by {{count}} users",
+  "listing_id_alias":"Listing  {{alaisId}}"
 }

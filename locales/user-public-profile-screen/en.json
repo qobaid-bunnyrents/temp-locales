@@ -14,5 +14,7 @@
   "block_desc": "Block this profile from messaging you",
   "no_items_found": "No Items Found!",
   "followers": "Followers",
-  "following": "Following"
+  "following": "Following",
+  "saved_success":"Added to favorites successfully",
+  "unsaved_success":"Removed from favorites successfully"
 }

@@ -1,17 +1,18 @@
 {
-"add_to_fav":"Add to Favorites",
-"message":"Message",
-  "listing":"Listing",
-"no_listing":"No listing yet",
-  "saved_in_fav":"Saved in Favorites",
-"share_label":"Share",
-  "share_desc":"Send this profile link to someone",
- 
-  "report_label":"Report",
-  "report_desc":"Report an issue or a violation",
-  
-    "block_label":"Block Messages",
-  "block_desc":"Block this profile from messaging you",
-  "no_items_found": "No Items Found!"
+  "add_to_fav": "Add to Favorites",
+  "message": "Message",
+  "listing": "Listing",
+  "no_listing": "No listing yet",
+  "saved_in_fav": "Saved in Favorites",
+  "share_label": "Share",
+  "share_desc": "Send this profile link to someone",
 
+  "report_label": "Report",
+  "report_desc": "Report an issue or a violation",
+
+  "block_label": "Block Messages",
+  "block_desc": "Block this profile from messaging you",
+  "no_items_found": "No Items Found!",
+  "followers": "Followers",
+  "following": "Following"
 }

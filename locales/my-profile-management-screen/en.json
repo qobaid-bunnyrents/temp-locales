@@ -24,5 +24,7 @@
     "desc": "Motto",
     "email": "Email",
     "save": "Save"
-  }
+  },
+   "followers": "Followers",
+  "following": "Following"
 }

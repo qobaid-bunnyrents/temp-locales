@@ -1,1 +1,18 @@
-{}
+{
+  "screen_heading": "How would you like to get this item?",
+
+  "bunny_delivery": {
+    "heading": "Deliver it to me with BunnyRents",
+    "desc": "BunnyRents will make sure to inspect the item's condition before the rental starts."
+  },
+
+  "local_delivery": {
+    "heading": "Local pick up (No delivery fee)",
+    "desc": "You are responsible to inspect the item's status before you accept the rent and pickup the item on time from a pickup location.",
+    "hint": "Meet up with the renter to pick up",
+    "hint_note": "BunnyRents is not responsible on item's condition or inspection"
+  },
+
+  "learn_more": "Learn more",
+  "confirm": "Confirm"
+}

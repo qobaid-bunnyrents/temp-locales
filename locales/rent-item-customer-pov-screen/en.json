@@ -13,6 +13,7 @@
   "aavailable_status": "Available",
   "unavailable_status": "Item is currently not available for rent",
   "rent_btn_available": "Rent Now",
+  "login_to_rent": "Login to rent",
   "rent_btn_unavailable": "Currently not available",
   "rent_btn_rented": "Notify me when available",
   "menu_bottom_sheet": {
@@ -21,6 +22,6 @@
       "secondary": "Report a problem with this listing"
     }
   },
-  "saved_times_one":"Saved {{count}} time",
-  "saved_times_other":"Saved {{count}} times"
+  "saved_times_one": "Saved {{count}} time",
+  "saved_times_other": "Saved {{count}} times"
 }

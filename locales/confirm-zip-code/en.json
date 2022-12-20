@@ -6,5 +6,6 @@
   "apply": "Apply",
   "search_input_placeholder":"Enter a zip code",
   "coudnot_locate_zip_code_automatically":"Couldn't locate your zip code automatically",
-  "update":"Update"
+  "update":"Update",
+  "browser__location__denied":"Location permission denied. Check your browser to enable it."
 }

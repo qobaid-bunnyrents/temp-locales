@@ -2,7 +2,7 @@
   "screen_heading": "Listing",
   "available_rate": "Available ${{pay}} / {{unit}}",
   "based_on_review": "Based on {{count}} reviews",
-  "similar_listing": "Similar Listing",
+  "similar_listing": "You might also like",
   "no_rent_items": "No similar listing found.",
   "faqs_heading": "FAQs and Instructions",
   "share_listing": "Share Listing",

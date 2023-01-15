@@ -24,5 +24,6 @@
   },
   "saved_times_one": "Saved {{count}} time",
   "saved_times_other": "Saved {{count}} times",
-  "rent_btn_area_not_match":"Only available in \"{{areaName}}\""
+  "rent_btn_area_not_match":"Only available in \"{{areaName}}\"",
+  "change_area":"Change search area"
 }

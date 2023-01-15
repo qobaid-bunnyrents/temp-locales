@@ -2,5 +2,7 @@
   "screen_heading": "Manage Item",
   "status_hint_main": "Your listing is under review",
   "status_hint_secondary": "We will update you very soon",
-  "item_num": "Item number: {{itemNum}}"
+  "item_num": "Item number: {{itemNum}}",
+  "approved_hint_main":"Your listing has been approved",
+  "approved_hint_secondary":"Go to your listing to manage."
 }
